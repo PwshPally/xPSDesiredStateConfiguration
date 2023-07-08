@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - xDSCWebService
   - Fixed a bug where the variable ```DscWebServiceDefaultAppPoolName``` is not set in the resource xDSCWebService since version 9.0.0 as a result of module refactoring.
 - xPSDesiredStateConfiguration
-  - Fixed ConvertTo-DWord to correctly use UInt32
+  - Fixed ConvertTo-DWord to correctly use UInt32 instead of Int32
 
 ### Fixed
 
